@@ -1,14 +1,14 @@
 [
 	{
-		id: 1,
-		date: '20190212',
-		version: '0.0',
-		description: 'Version complètement fausse utilisée pour les tests'
+		"id": 1,
+		"date": "20190212",
+		"version": "0.0",
+		"description": "Version complètement fausse utilisée pour les tests"
 	},
 	{
-		id: 2,
-		date: '20190213',
-		version: '0.1',
-		description: 'Démarrage du projet'
+		"id": 2,
+		"date": "20190213",
+		"version": "0.1",
+		"description": "Démarrage du projet"
 	}
 ]
