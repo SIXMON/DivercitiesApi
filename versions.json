@@ -10,5 +10,11 @@
 		"date": "20190213",
 		"version": "0.1",
 		"description": "Démarrage du projet"
+	},
+	{
+		"id": 3,
+		"date": "20190214",
+		"version": "0.2",
+		"description": "Test upgrade API"
 	}
 ]
