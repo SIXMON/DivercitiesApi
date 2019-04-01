@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"date": "201904010900",
+		"domain": "http://3b89e11c.ngrok.io",
+		"description": "Machine de Florent"
+	},
+	{
+		"id": 2,
+		"date": "201904011830",
+		"version": "http://391e62ab.ngrok.io",
+		"description": "Machine de Florent"
+	}
+]
